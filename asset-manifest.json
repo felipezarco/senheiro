@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/senheiro/static/css/main.d1b6b6b4.chunk.css",
+    "main.js": "/senheiro/static/js/main.628d3398.chunk.js",
+    "main.js.map": "/senheiro/static/js/main.628d3398.chunk.js.map",
+    "runtime~main.js": "/senheiro/static/js/runtime~main.284307b4.js",
+    "runtime~main.js.map": "/senheiro/static/js/runtime~main.284307b4.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/senheiro/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.6cc7f9a7.chunk.js": "/senheiro/static/js/2.6cc7f9a7.chunk.js",
+    "static/js/2.6cc7f9a7.chunk.js.map": "/senheiro/static/js/2.6cc7f9a7.chunk.js.map",
+    "index.html": "/senheiro/index.html",
+    "precache-manifest.586843cf600589426bc018bb19388ffb.js": "/senheiro/precache-manifest.586843cf600589426bc018bb19388ffb.js",
+    "service-worker.js": "/senheiro/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/senheiro/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.d1b6b6b4.chunk.css.map": "/senheiro/static/css/main.d1b6b6b4.chunk.css.map"
+  }
+}
